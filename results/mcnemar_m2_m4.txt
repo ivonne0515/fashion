@@ -1,0 +1,7 @@
+McNemar test M2 vs M4
+=====================
+Both correct: 618
+M2 correct, M4 wrong: 68
+M2 wrong, M4 correct: 73
+Both wrong: 254
+p-value: 1.0000

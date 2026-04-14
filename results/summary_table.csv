@@ -1,0 +1,6 @@
+Model,Test Accuracy,Macro F1
+M0 CNN Scratch,0.4166,0.0665
+M1 ResNet Frozen,0.5962,0.2947
+M2 ResNet Finetune,0.6762,0.3751
+M3 SE-ResNet MT,0.6713,0.3731
+M4 SE-ResNet Aug,0.6821,0.3826
